@@ -30,7 +30,7 @@ twitter_username: KempaGustafsson
 github_username: sprvn
 
 # Build settings
-theme: minima
+theme: minimal
 plugins:
   - jekyll-feed
 
